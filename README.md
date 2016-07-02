@@ -23,3 +23,4 @@ Xcode7，真机调试，如果出现下面的错误提示，提示友盟的libra
 
 2.关闭bitcode
 选择工程，target-》build setting -》enable bitcode设置为NO
+# meituan-
